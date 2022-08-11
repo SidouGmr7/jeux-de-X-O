@@ -1,4 +1,3 @@
-# jeux-de-X-O
 #include "stdafx.h"
 #include <iostream>
 using namespace std;
